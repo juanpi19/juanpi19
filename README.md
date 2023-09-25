@@ -8,8 +8,7 @@
 
 - 📈 Master in Business Analytics Candidate at [@USC](https://www.usc.edu/)
 - 📫 How to reach me: **jjh80024@usc.com**
-
-<!-- 📄 Resume Link: [Resume](https://tinyurl.com/RoniAsaResume) -->
+-  📄 Resume Link: [Resume](https://tinyurl.com/yzfsshf8) 
 <!-- ⚡ Fun fact: **Pro ** -->
 
 
