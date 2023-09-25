@@ -12,7 +12,7 @@
 <!-- ⚡ Fun fact: **Pro ** -->
 
 
-<h2 align="left">🎓 Education: (Bachelors in Computer Information Systems & Master in Business Analytics)</h2>
+<h4 align="left">🎓 Education: (BS in Computer Information Systems & MS in Business Analytics)</h4>
 <a href="https://www.usc.edu/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/SHC_logo-stack-2627c%2Bk-1.png" alt="SHC" width="150" height="90"/>
 &nbsp;&nbsp;&nbsp;
 <a href="https://usc.edu/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/94/USC_Trojans_logo.svg" alt="USC" width="90" height="90"/>
