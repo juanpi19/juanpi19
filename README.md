@@ -29,6 +29,6 @@
 </p> -->
 
 <h2 align="left">About Me:</h2>
-<p align="left">Passionate about data science. Always exploring topics in machine learning, statistical modeling, causal inference... let's build.</p>
+<p align="left">Exploring topics in machine learning, statistical modeling, causal inference.</p>
   
 <!--![MasterHead](https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif)-->
