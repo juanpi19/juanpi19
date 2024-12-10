@@ -7,8 +7,8 @@
 
 
 - 📈 Data Science [@NBCUniversal](https://www.linkedin.com/company/nbcuniversal-inc-/). Ex [@Eventellect](https://www.linkedin.com/company/eventellect/posts/?feedView=all), [@Nestle](https://www.linkedin.com/company/nestl-purina-north-america/)
-- 🎓 Education: Computer Science <a href="https://www.shc.edu/">@SHC</a> & Business Analytics <a href="https://www.usc.edu/">@USC</a>
-- 🪛 Let's connect <a href="https://www.linkedin.com/in/juanherreras/" target="blank">LinkedIn</a>
+- 🎓 Computer Science <a href="https://www.shc.edu/">@SHC</a> & Business Analytics <a href="https://www.usc.edu/">@USC</a>
+- 🪛 Connect <a href="https://www.linkedin.com/in/juanherreras/" target="blank">@LinkedIn</a>
 - 🖊️ Here I share what I learn [@medium](https://medium.com/@JuanPabloHerrera)
 
 <!--- 📫 How to reach me: **jjh80024@usc.com**-->
